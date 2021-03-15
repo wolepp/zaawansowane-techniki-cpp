@@ -1,5 +1,9 @@
 # executables
 *.out
+*.x
+
+# objects
+*.o
 
 # archives
 *.zip
