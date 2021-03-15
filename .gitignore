@@ -1,0 +1,6 @@
+# executables
+*.out
+
+# archives
+*.zip
+*.tar.gz
