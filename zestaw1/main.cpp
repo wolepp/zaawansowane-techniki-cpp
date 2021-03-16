@@ -62,7 +62,7 @@ public:
 };
 
 template<typename S> S::value_type sum(S s) {
-    typename S::value_type total;
+    typename S::value_type total {};
     while (!s.is_empty())
     {
         total += s.pop();
