@@ -5,3 +5,6 @@ OBJECTS = main.o
 
 main: $(OBJECTS)
 	$(CXX) $(CXXFLAGS) -o $@.x $^
+
+clean:
+	rm -f *.x *.o

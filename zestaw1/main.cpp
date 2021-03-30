@@ -53,7 +53,7 @@ private:
     size_t _top;
 
 public:
-    typedef T value_type;
+    typedef T value_type; // typ stowarzyszony
     Stack() : _top(0){};
 
     void push(T val) { _rep[_top++] = val; }
