@@ -8,3 +8,6 @@
 # archives
 *.zip
 *.tar.gz
+
+#vscode
+.vscode/
