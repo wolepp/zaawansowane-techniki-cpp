@@ -31,3 +31,9 @@ W pliku `generator.cpp` znajduje się klasa `SequenceGen` - funktor generujący 
 _Szablony II_ - przeciążanie i specjalizacja szablonów funkcji, specjalizacja szablonów klas.
 
 Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP/Wyk%C5%82ad_3:_Szablony_II)
+
+## Zestaw 4
+
+_Klasy chech_ - cechy wartości, parametryzacja klasami cech.
+
+Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP/Wyk%C5%82ad_5:_Klasy_cech)
