@@ -1,6 +1,8 @@
 # executables
 *.out
 *.x
+# optimized version
+*.xopt 
 
 # objects
 *.o

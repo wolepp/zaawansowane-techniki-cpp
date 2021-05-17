@@ -37,3 +37,15 @@ Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=
 _Klasy chech_ - cechy wartości, parametryzacja klasami cech.
 
 Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP/Wyk%C5%82ad_5:_Klasy_cech)
+
+## Zestaw 5
+
+_Funkcje typów_ - zdejmowanie kwalifikatorów, cechy typów, cechy promocji, listy typów
+
+Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP/Wyk%C5%82ad_6:_Funkcje_typ%C3%B3w_i_inne_sztuczki)
+
+## Zestaw 7
+
+_Metaprogramowanie_ - użycie szablonów funkcji i klas do obliczeń w trakcie kompilacji.
+
+Na podstawie [wazniak.mimuw.edu.pl](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP/Wyk%C5%82ad_8:_Metaprogramowanie)
