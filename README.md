@@ -1,4 +1,4 @@
-# Zaawansowane programowania w C++
+# Zaawansowane techniki programowania w C++
 
 ## Zestaw 1 - Szablony I
 
